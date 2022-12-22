@@ -1,2 +1,2 @@
 # Auth
-auth=kaosdesign
+auth=
